@@ -1,0 +1,75 @@
+/* Style for the form */
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 600vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #66afe9;
+}
+
+/* Style for the card */
+p-card {
+    width: 360px;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
+
+/* Style for labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: blue;
+}
+
+/* Style for input fields */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #007bff;
+}
+
+/* Style for error messages */
+.small.p-error {
+    color: red;
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Style for the Register button */
+p-button {
+    width: 100%;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:purple;
+}
+
+/* Style for the login link */
+.mt-2  {
+    color: #007bff;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Additional styles for hover/focus effects if needed */
+input[type="text"]:hover,
+input[type="password"]:hover,
+input[type="text"]:focus,
+input[type="password"]:focus {
+    outline: none;
+    border-color: #66afe9;
+    /* Modify to your desired focus/hover color */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

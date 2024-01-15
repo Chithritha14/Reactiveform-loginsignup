@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "fullName": "pilu",
+      "email": "pilu@gmail.com",
+      "password": "iampilu",
+      "id": 1
+    },
+    {
+      "fullName": "testcase",
+      "email": "testcase@gmail.com",
+      "password": "testcase1",
+      "id": 2
+    },
+    {
+      "fullName": "testcase",
+      "email": "testcase@gmail.com",
+      "password": "testcase1",
+      "id": 3
+    },
+    {
+      "fullName": "myname",
+      "email": "myname@gmail.com",
+      "password": "myname",
+      "id": 4
+    },
+    {
+      "fullName": "myname",
+      "email": "myname@gmail.com",
+      "password": "myname",
+      "id": 5
+    },
+    {
+      "fullName": "mytestcase",
+      "email": "mytestcase@gmail.com",
+      "password": "mytestcase",
+      "id": 6
+    },
+    {
+      "fullName": "thisisme",
+      "email": "maxmartin@gmail.com",
+      "password": "this",
+      "id": 7
+    },
+    {
+      "fullName": "new",
+      "email": "new@gmail.com",
+      "password": "new",
+      "id": 8
+    },
+    {
+      "fullName": "newnew",
+      "email": "newnew@gmail.com",
+      "password": "new",
+      "id": 9
+    },
+    {
+      "fullName": "asdf",
+      "email": "asdf@gmail.com",
+      "password": "asdf",
+      "id": 10
+    },
+    {
+      "fullName": "qwe",
+      "email": "qwe@gmail.com",
+      "password": "qwe",
+      "id": 11
+    },
+    {
+      "fullName": "sweedal",
+      "email": "chithritha.karkera@kyndryl.com",
+      "password": "abcd1234",
+      "id": 12
+    },
+    {
+      "fullName": "hello",
+      "email": "chithritha.karkera@kyndryl.com",
+      "password": "ab",
+      "id": 13
+    },
+    {
+      "fullName": "hello",
+      "email": "chithritha.karkera@kyndryl.com",
+      "password": "123",
+      "id": 14
+    },
+    {
+      "fullName": "Chandrashekar",
+      "email": "ccc.chithritha@gmail.com",
+      "password": "klmn",
+      "id": 15
+    },
+    {
+      "fullName": "sweedal",
+      "email": "chithritha14@outlook.com",
+      "password": "fg",
+      "id": 16
+    },
+    {
+      "fullName": "sweedal",
+      "email": "chithritha14@outlook.com",
+      "password": "12",
+      "id": 17
+    },
+    {
+      "fullName": "Chithritha",
+      "email": "chithritha.karkera@kyndryl.com",
+      "password": "asd",
+      "id": 18
+    },
+    {
+      "fullName": "sweedal",
+      "email": "chithritha14@outlook.com",
+      "password": "asd",
+      "id": 19
+    },
+    {
+      "fullName": "qwe",
+      "email": "w@gmail.com",
+      "password": "qwe",
+      "id": 20
+    },
+    {
+      "fullName": "jk",
+      "email": "jk@gmail.com",
+      "password": "jkmn",
+      "id": 21
+    },
+    {
+      "fullName": "lilu",
+      "email": "lilu@gmail.com",
+      "password": "lilu123",
+      "id": 22
+    }
+  ]
+}
